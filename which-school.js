@@ -6,4 +6,4 @@ const whichSchool  = function (age) {
   } else {
     return "Lighthouse Labs";
   }
-  }
+}
